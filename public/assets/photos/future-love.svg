@@ -1,0 +1,16 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="120" y1="80" x2="1030" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAD6FF"/>
+      <stop offset="0.5" stop-color="#F7D5DC"/>
+      <stop offset="1" stop-color="#CFE6FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg2)"/>
+  <circle cx="280" cy="220" r="150" fill="#FFF0F6" fill-opacity="0.5"/>
+  <circle cx="905" cy="690" r="180" fill="#D9E7FF" fill-opacity="0.45"/>
+  <path d="M305 655C281 610 224 569 181 532C132 492 100 451 100 400C100 332 156 282 224 282C278 282 324 324 341 377C359 324 405 282 459 282C527 282 583 332 583 400C583 451 551 492 502 532C459 569 402 610 378 655H305Z" fill="#FF8CA8" fill-opacity="0.82"/>
+  <path d="M652 632C626 588 595 552 562 523C524 490 491 463 491 420C491 369 533 331 590 331C642 331 682 370 702 419C721 370 761 331 813 331C870 331 912 369 912 420C912 463 879 490 841 523C808 552 777 588 751 632H652Z" fill="#A97AF7" fill-opacity="0.7"/>
+  <path d="M478 500C522 514 560 532 600 560C640 532 678 514 722 500" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round"/>
+  <text x="600" y="770" text-anchor="middle" font-family="Georgia, serif" font-size="62" fill="#FFFFFF" font-weight="700">Lo que viene</text>
+</svg>

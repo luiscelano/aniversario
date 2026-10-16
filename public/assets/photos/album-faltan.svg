@@ -1,0 +1,14 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a4" x1="100" y1="80" x2="820" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D8F5E6"/>
+      <stop offset="1" stop-color="#C9DDF7"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#a4)"/>
+  <circle cx="240" cy="180" r="150" fill="#F5FFFA" fill-opacity="0.35"/>
+  <circle cx="650" cy="650" r="180" fill="#E0F0FF" fill-opacity="0.43"/>
+  <path d="M310 610C285 535 240 500 200 470C152 435 120 391 120 342C120 280 171 232 235 232C295 232 347 271 373 328C399 271 451 232 511 232C575 232 626 280 626 342C626 391 594 435 546 470C506 500 461 535 436 610H310Z" fill="#85D4B4" fill-opacity="0.74"/>
+  <path d="M566 610C552 534 518 480 470 440C519 396 560 349 570 298C629 344 676 398 695 462C716 532 680 606 566 610Z" fill="#8CB6F5" fill-opacity="0.75"/>
+  <text x="450" y="790" text-anchor="middle" font-family="Georgia, serif" font-size="54" fill="#FFFFFF" font-weight="700">Aún faltan</text>
+</svg>

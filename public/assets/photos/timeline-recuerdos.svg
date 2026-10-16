@@ -1,0 +1,16 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="t3" x1="120" y1="0" x2="1040" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBE7D7"/>
+      <stop offset="1" stop-color="#F5B9B1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#t3)"/>
+  <circle cx="900" cy="140" r="150" fill="#FFF6F0" fill-opacity="0.42"/>
+  <circle cx="260" cy="620" r="200" fill="#F9D9CC" fill-opacity="0.35"/>
+  <rect x="220" y="220" width="760" height="300" rx="44" fill="#FFFFFF" fill-opacity="0.16"/>
+  <path d="M370 420C410 360 485 310 560 310C634 310 712 360 752 420" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="560" cy="300" r="86" fill="#FFDCC6" fill-opacity="0.75"/>
+  <path d="M702 420L758 355L812 420" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="700" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#FFFFFF" font-weight="700">Más recuerdos</text>
+</svg>

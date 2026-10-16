@@ -1,0 +1,18 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8D7E4"/>
+      <stop offset="0.5" stop-color="#F3B5C9"/>
+      <stop offset="1" stop-color="#D9B8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="950" cy="170" r="170" fill="#FFF5F8" fill-opacity="0.38"/>
+  <circle cx="220" cy="680" r="200" fill="#FFDCEB" fill-opacity="0.35"/>
+  <path d="M600 665C580 620 520 590 470 560C430 534 410 498 410 455C410 401 454 360 510 360C560 360 598 394 612 432C626 394 664 360 714 360C770 360 814 401 814 455C814 498 794 534 754 560C704 590 644 620 600 665Z" fill="#F66C9C" fill-opacity="0.9"/>
+  <path d="M470 494C470 432 520 390 576 390C629 390 678 435 678 494" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round"/>
+  <path d="M510 248C552 198 630 206 664 257C698 206 776 198 818 248" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" opacity="0.9"/>
+  <rect x="118" y="120" width="300" height="52" rx="26" fill="#FFFFFF" fill-opacity="0.24"/>
+  <text x="268" y="156" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#FFFFFF">Nuestra historia</text>
+  <text x="600" y="795" text-anchor="middle" font-family="Georgia, serif" font-size="66" font-weight="700" fill="#FFFFFF">mi persona favorita</text>
+</svg>

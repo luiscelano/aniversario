@@ -1,0 +1,15 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="t2" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0F4FF"/>
+      <stop offset="1" stop-color="#C4D9FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#t2)"/>
+  <path d="M0 530C120 470 190 440 280 460C420 492 478 610 627 610C770 610 880 490 1200 540V800H0V530Z" fill="#9EC9FF" fill-opacity="0.55"/>
+  <path d="M220 570C326 420 420 370 550 372C640 374 706 424 770 500" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <path d="M520 428L570 318L630 430L686 336L752 428H520Z" fill="#6FB7FF" fill-opacity="0.8"/>
+  <circle cx="274" cy="229" r="52" fill="#FFFFFF" fill-opacity="0.32"/>
+  <path d="M315 296C350 348 382 395 425 410C466 424 508 403 543 381" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <text x="600" y="700" text-anchor="middle" font-family="Georgia, serif" font-size="50" fill="#FFFFFF" font-weight="700">Nuestra aventura</text>
+</svg>

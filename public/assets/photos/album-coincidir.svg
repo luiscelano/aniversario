@@ -1,0 +1,14 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a3" x1="0" y1="0" x2="900" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FEE9C8"/>
+      <stop offset="1" stop-color="#FFCCD7"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#a3)"/>
+  <circle cx="700" cy="170" r="150" fill="#FFF5DA" fill-opacity="0.4"/>
+  <path d="M200 620C270 500 336 458 430 456C546 454 610 530 676 620" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M290 575L394 340L500 575" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M430 575L534 340L640 575" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="450" y="790" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#FFFFFF" font-weight="700">Coincidir</text>
+</svg>

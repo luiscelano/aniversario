@@ -1,0 +1,14 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a2" x1="90" y1="90" x2="820" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8DEFF"/>
+      <stop offset="1" stop-color="#D0EBFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#a2)"/>
+  <circle cx="220" cy="180" r="130" fill="#FFFFFF" fill-opacity="0.28"/>
+  <circle cx="690" cy="690" r="170" fill="#E7F0FF" fill-opacity="0.45"/>
+  <path d="M230 610C180 565 150 520 150 470C150 412 196 366 254 366C305 366 348 400 370 447C391 400 434 366 485 366C543 366 589 412 589 470C589 520 559 565 509 610H230Z" fill="#B49AE9" fill-opacity="0.82"/>
+  <path d="M564 610C528 564 500 521 500 478C500 433 534 398 577 398C618 398 652 431 672 473C694 431 727 398 768 398C811 398 845 433 845 478C845 521 816 564 780 610H564Z" fill="#9BC8FD" fill-opacity="0.75"/>
+  <text x="450" y="790" text-anchor="middle" font-family="Georgia, serif" font-size="54" fill="#FFFFFF" font-weight="700">Juntos</text>
+</svg>
